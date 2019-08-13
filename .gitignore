@@ -1,4 +1,4 @@
-./week10_sentiment_analyse/cache/sentiment_analysis/preprocessed_data.pkl
-./week10_sentiment_analyse/cache/sentiment_analysis/bow_features.pkl
-./week10_sentiment_analyse/data/train/
-./week10_sentiment_analyse/data/test/
+week10_sentiment_analyse/cache/sentiment_analysis/preprocessed_data.pkl
+week10_sentiment_analyse/cache/sentiment_analysis/bow_features.pkl
+week10_sentiment_analyse/data/train/
+week10_sentiment_analyse/data/test/
